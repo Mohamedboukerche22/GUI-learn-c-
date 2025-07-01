@@ -10,9 +10,15 @@ sudo dnf install fltk-devel
 sudo apt install libfltk1.3-dev
 ```
 
-# includes 
+# run includes 
 ```cpp
 #include <FL/Fl.H>
 #include <FL/Fl_Window.H>
-#include <FL/Fl_Button.H>
 ```
+# how to run it 
+```bash
+sudo chmod +x run.sh
+./run.sh
+```
+# and congrats your app is running sucessfull
+
