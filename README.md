@@ -1,5 +1,5 @@
 # GUI-learn-c-
-# using FLTK 
+# 1-  using FLTK 
 # Install FLTK
 - fedora 
 ```bash
@@ -20,5 +20,11 @@ sudo apt install libfltk1.3-dev
 sudo chmod +x run.sh
 ./run.sh
 ```
-# and congrats your app is running sucessfull
+### and congrats your app is running sucessfull
+
+# 2 - using raylib
+
+```cpp
+#include "raylib.h"
+```
 
